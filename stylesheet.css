@@ -1,0 +1,77 @@
+body{
+    font-family:'Tajawal', sans-serif;
+   }
+   .navbar-default{
+    background-color: firebrick;
+   }
+   .navbar-default .navbar-nav>li>a {
+    color: #ffffff;
+    }
+   .navbar-default .navbar-brand{
+       color: #ffffff;
+   }
+   /* header{
+    background-color: firebrick;color: #FFFFFF;font-size: 40px;
+    position:fixed;top: 0px;width: 100%;z-index:1;
+   } */
+   ul{
+       font-size: 20px;text-align: center;
+   }  
+   li a:active{
+       font-weight: bold;
+   }
+   section{
+     width: 70%;margin-left: 15%;margin-right: 15%;
+   }
+   span{
+       color: red;font-size: x-large;
+   }
+   
+   div{
+       width: 100%;text-align:center;
+   }
+   h1{
+       text-align: center;
+   }
+   h2{
+       text-align: center;font: 30px 'Tajawal', sans-serif bold;padding-bottom: 30px;
+       box-sizing: border-box;height:20%;
+       cursor: pointer;
+   }   
+   .subDiv{      
+       /* display: none; */
+       background-color:whitesmoke;width: 100%;
+       text-align: center;font-size:medium;color: #262626;
+       /* transition: 0.0; */
+   }
+   div.col-sm-6 img,div.col-sm-4 img,div.col-sm-3 img{
+    width:200px;height:200px;margin: auto;background-color: #ffffff;
+   }
+   img{
+       box-shadow: 5px 5px #a1a3a3;cursor:pointer;
+   }
+    .alphaStyle1{
+    background-color: blanchedalmond;color:black; width: 100%;text-align:center;padding-top: 30px;
+    }
+    .alphaStyle2{
+    background-color:blueviolet;color: #ffffff; width: 100%;text-align:center;padding-top: 30px;
+    }
+    .alphaStyle3{
+    background-color:cadetblue;color: #ffffff; width: 100%;text-align:center;padding-top: 30px;
+    }
+    .alphaStyle4{
+    background-color:darkred;color: #ffffff; width: 100%;text-align:center;padding-top: 30px;
+    }
+    .alphaStyle5{
+    background-color:lawngreen; width: 100%;text-align:center;padding-top: 30px;
+    }
+    .alphaStyle6{
+    background-color:goldenrod; width: 100%;text-align:center;padding-top: 30px;
+    }
+    .alphaStyle7{
+    background-color:#262626;color: #ffffff; width: 100%;text-align:center;padding-top: 30px;
+    }          
+    footer{
+        background-color: firebrick;color: #FFFFFF;font-size: 20px;
+        position:fixed;bottom: 0px;width: 100%;z-index:1;
+    }
